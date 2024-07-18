@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a developer obscessed about technology and programming, currently a high school student. I love exploring new programming languages and working on challenging projects.
+I am a beginner programmer obscessed about technology, currently a high school student. I love exploring new programming languages and working on challenging projects.
 
 - 🌱 I’m currently learning: Javascript Basics
 - 👯 I’m looking to collaborate on: Mobile or Desktop app Development
@@ -10,7 +10,6 @@ I am a developer obscessed about technology and programming, currently a high sc
 
 ## Technologies and Tools
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
